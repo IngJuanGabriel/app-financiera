@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rocky Sistemas Finanzas</string>
+    <string name="app_subtitle">Visualiza gastos, cuotas, proyecciones y reportes sin depender de una planilla.</string>
+    <string name="hero_chip">Plan mensual activo</string>
+    <string name="report_title">Reporte rapido</string>
+    <string name="update_salary">Actualizar sueldo</string>
+    <string name="add_fixed">Agregar fijo</string>
+    <string name="add_variable">Agregar variable</string>
+    <string name="add_installment">Agregar cuota</string>
+    <string name="fixed_section">Gastos fijos</string>
+    <string name="variable_section">Gastos variables</string>
+    <string name="installment_section">Tarjetas y cuotas</string>
+    <string name="salary_label">Sueldo del mes</string>
+    <string name="installment_short_label">Cuotas activas</string>
+    <string name="fixed_short_label">Total fijo</string>
+    <string name="variable_short_label">Total variable</string>
+    <string name="quick_actions">Carga rapida</string>
+    <string name="export_report">Exportar TXT</string>
+    <string name="share_report">Compartir</string>
+    <string name="edit_hint">Cada item se puede editar o borrar.</string>
+    <string name="installment_hint">Controla cuotas pendientes y lo que sigue el proximo mes.</string>
+    <string name="brand_name">Rocky Sistemas</string>
+    <string name="save_month">Guardar mes</string>
+    <string name="history_title">Historial mensual</string>
+    <string name="history_hint">Guarda un cierre del mes para comparar como evoluciona tu economia.</string>
+    <string name="history_empty">Todavia no guardaste ningun mes.</string>
+</resources>
